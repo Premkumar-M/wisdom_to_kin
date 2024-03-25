@@ -1,6 +1,6 @@
 
 const express = require('express');
-const routesHandler = require('./routes/routesHandler') 
+const routesHandler = require('./src/routes/routesHandler') 
   
 const app = express(); 
 const PORT = 3000;
